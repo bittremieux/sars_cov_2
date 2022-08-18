@@ -2,7 +2,7 @@
 
 This is a companion repository for the following manuscript:
 
-* **Open science resources for the mass spectrometry-based analysis of SARS-CoV-2** (TODO: citation when available)
+* Wout Bittremieux, Charlotte Adams, Kris Laukens, Pieter C. Dorrestein, Nuno Bandeira. **Open science resources for the mass spectrometry-based analysis of SARS-CoV-2** _Journal of Proteome Research_ **20**, 1464–1475 (2021) [doi:10.1021/acs.jproteome.0c00929](https://doi.org/10.1021/acs.jproteome.0c00929)
 
 The repository consists of a Jupyter notebook with a tutorial of the computational steps needed to analyze affinity purification mass spectrometry (AP-MS) data to detect high-confidence protein-protein interactions (PPIs).
 
